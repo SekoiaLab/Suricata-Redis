@@ -1,6 +1,5 @@
 Suricata-Redis
 ==============
-#Suricata Redis
 ##Concepts
 the goal is to record and process the events of suricata in Redis (noSQL database)
 ##NDH 2K14
